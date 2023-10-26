@@ -14,7 +14,7 @@ export const data = [
     img: 'https://i.postimg.cc/CLPZyRH9/Screenshot-2023-09-29-193124.png',
     title: "Todo App",
     desc:"Todo Application is a web-based task management system With Google Frebase Auth and FireStore Database ",
-    link: "https://todo-wgmm.onrender.com/",
+    link: "https://thehrm.onrender.com/job/apply",
     git: "https://github.com/durgeshmalviya/To-Do-App.git",
   },
   {
