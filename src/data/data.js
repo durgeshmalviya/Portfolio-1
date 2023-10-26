@@ -6,7 +6,7 @@ export const data = [
     img: 'https://i.postimg.cc/qqWGQ1Rx/ok.png',
     title: "Spring-Boot API ",
     desc: " Spring Boot CRUD API with MongoDB Developed a RESTful CRUD API using Spring Boot and MongoDB to manage data for a web application. Utilized Thymeleaf templates for server-side rendering",
-    link: "https://thehrm.up.railway.app",
+    link: "https://thehrm.onrender.com/",
     git: "https://github.com/durgeshmalviya/SpringBoot-api-for-job-portal",
   },
   {
@@ -14,7 +14,7 @@ export const data = [
     img: 'https://i.postimg.cc/CLPZyRH9/Screenshot-2023-09-29-193124.png',
     title: "Todo App",
     desc:"Todo Application is a web-based task management system With Google Frebase Auth and FireStore Database ",
-    link: "https://thehrm.onrender.com/job/apply",
+    link: "https://todo-wgmm.onrender.com/",
     git: "https://github.com/durgeshmalviya/To-Do-App.git",
   },
   {
