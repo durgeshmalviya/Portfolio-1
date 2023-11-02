@@ -34,13 +34,20 @@ export const data = [
     git: "",
   },
   {
-    id: 0,
+    id: 5,
     img: 'https://i.postimg.cc/sDVdr2vy/News-app.png',
     title: "News App",
     desc: "News App using API And Live TV",
     link: "https://headlines-today.onrender.com/",
     git: "",
   },
-  
+  {
+    id: 6,
+    img: 'https://i.postimg.cc/2S1TQp3p/we.png',
+    title: "Python Djago",
+    desc: "Django WebApp",
+    link: "https://devlok.onrender.com/",
+    git: "",
+  },
   
 ];
