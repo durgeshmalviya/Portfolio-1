@@ -19,7 +19,7 @@ export const data = [
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/Pqhsqx2M/Screenshot-2023-09-29-191434.png',
+    img: 'https://i.postimg.cc/xjHWDzPJ/wer.png',
     title: "QR Code Generator",
     desc: "QR Code and VCard Genrate for Contact Sharing",
     link: "https://reactqr.onrender.com/",
